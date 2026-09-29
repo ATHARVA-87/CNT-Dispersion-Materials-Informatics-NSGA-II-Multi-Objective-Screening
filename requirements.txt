@@ -1,0 +1,28 @@
+# Core numerical and data stack
+numpy>=1.26,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+
+# Machine learning
+scikit-learn>=1.4,<2
+
+# Materials / molecular descriptors
+rdkit>=2023.9
+
+# Visualization
+matplotlib>=3.7,<4
+seaborn>=0.13,<1
+
+# Model interpretation
+shap>=0.45,<1
+
+# Multi-objective optimization
+pymoo>=0.6.1,<1
+
+# Optional model benchmarks
+xgboost>=2.0,<4
+lightgbm>=4.0,<5
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
