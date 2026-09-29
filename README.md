@@ -94,6 +94,8 @@ Selected hypotheses are exported for experimental testing with predicted objecti
 
 Place the supplied training and validation CSV files in the project data location and run:
 
+-Please change the data directory and download the data from the attachments of reference research paper
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
@@ -122,5 +124,3 @@ nsga2_hypotheses_to_test.csv
 ## Tools
 
 **Python · NumPy · pandas · scikit-learn · RDKit · Matplotlib · Seaborn · SHAP · pymoo · XGBoost/LightGBM (benchmark support)**
-
-**Project status:** Research / portfolio prototype for materials-informatics screening.
