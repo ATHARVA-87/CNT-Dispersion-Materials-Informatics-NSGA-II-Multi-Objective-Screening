@@ -116,7 +116,7 @@ nsga2_hypotheses_to_test.csv
 ## References
 
 1. H. Jintoku, **“Machine-Learning-Based Dispersion Optimizer for Carbon Nanotubes across Dispersant−Solvent−Process Space,”** *ACS Applied Materials & Interfaces* **2026**, 18, 22287–22299. DOI: https://doi.org/10.1021/acsami.6c01563
-2. 2. J. Blank and K. Deb, "Pymoo: Multi-Objective Optimization in Python," *IEEE Access*, vol. 8, pp. 89497-89509, 2020. DOI: [10.1109/ACCESS.2020.2990567](https://doi.org/10.1109/ACCESS.2020.2990567)
+2. J. Blank and K. Deb, "Pymoo: Multi-Objective Optimization in Python," *IEEE Access*, vol. 8, pp. 89497-89509, 2020. DOI: [10.1109/ACCESS.2020.2990567](https://doi.org/10.1109/ACCESS.2020.2990567)
 3. F. Pedregosa et al., **Scikit-learn: Machine Learning in Python**, *JMLR* **2011**, 12, 2825–2830.
 4. S. M. Lundberg, S.-I. Lee, **A Unified Approach to Interpreting Model Predictions**, *NeurIPS* **2017**.
 5. RDKit: Open-source cheminformatics software, https://www.rdkit.org/
